@@ -31,7 +31,7 @@ body {
 
 table{
  	border-collapse: collapse; 
-         width: 90%; 
+         width: 100%; 
 
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
 	
@@ -45,7 +45,7 @@ table, th, td {
 }
 
 table, td {
-    background: #ededed;
+    background: #ff0000;
     border: 1px solid white;
    color: #000000;
     padding: 10px;
@@ -59,7 +59,7 @@ table, th {
     background: #000000; 
     height:50px; 
     vertical-align: middle; 
-	border: 1px solid #ededed;
+	border: 1px solid #ff0000;
 }
 .red {color:red;}
 
