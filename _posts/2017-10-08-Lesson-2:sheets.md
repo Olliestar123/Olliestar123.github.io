@@ -1,5 +1,5 @@
 ---
-title: Lesson 2:sheets
+title: Lesson 3: Google Sheets3
 layout: post
 author: ollie.hale
 permalink: /lesson-2:sheets/
