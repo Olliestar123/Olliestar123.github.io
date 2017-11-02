@@ -1,5 +1,5 @@
 ---
-title: Lesson 1: Google Sheets2
+title: Lesson 2: Google Sheets2
 layout: post
 author: ollie.hale
 permalink: /lesson-1:-google-sheets2/
