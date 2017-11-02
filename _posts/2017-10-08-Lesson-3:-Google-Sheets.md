@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Lesson 3: Google Sheets</td>
-    <td>27.09.17</td>
+    <td>20.09.17</td>
   </tr>
 </table>
 
