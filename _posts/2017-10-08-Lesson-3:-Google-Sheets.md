@@ -2,7 +2,7 @@
 title: Lesson 3: Google Sheets
 layout: post
 author: ollie.hale
-permalink: /lesson-3:-google-sheets/
+permalink: /lesson-3:-google-sheets3/
 source-id: 1qRp0dfvC3-3G_zy_YDoUcmkU-shYhJ60Z5joLooKxFs
 published: true
 ---
