@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Lesson 8: Google Sheets</td>
+    <td>Lesson 8: Google Sheets8</td>
     <td>25.10.17</td>
   </tr>
 </table>
